@@ -15,6 +15,9 @@ Mesh,Line,AmbientLight,DirectionalLight,
 CameraHelper,Raycaster} from "three";
 import * as d3 from "d3";
 
+
+//学习链接 https://segmentfault.com/a/1190000040287613#item-16
+
 const threeMapRef = ref()
 const threeMapWidth = ref(0) // 画布宽
 const threeMapHeight = ref(0) // 画布高
