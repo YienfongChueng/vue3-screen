@@ -76,12 +76,12 @@ window.onresize = debounce(getStyle,200)
     left: 0;
     top:0;
     bottom:0;
-    border:1px solid #fff;
+    /* border:1px solid #fff; */
 }
 .content-center {
     width: 50%;
     height: 100%;
-    border:1px solid #fff;
+    /* border:1px solid #fff; */
 }
 .content-right {
     position: absolute;
@@ -89,7 +89,7 @@ window.onresize = debounce(getStyle,200)
     right: 0;
     top:0;
     bottom:0;
-    border:1px solid #fff;
+    /* border:1px solid #fff; */
 }
 
 </style>
